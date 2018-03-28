@@ -1,3 +1,5 @@
+@copyright Dorota
+
 # Starter Web Project
 
 This is a simple website project
