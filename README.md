@@ -18,6 +18,6 @@ This is an example.
 
 ## How To Contribute
 
-## Copyright
+## Copyright jednak nie Dorota, tylko ktoś inny
 
-	2018
+	2000-2018
