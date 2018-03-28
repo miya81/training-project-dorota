@@ -17,3 +17,7 @@ Purpos of example
 This is an example.
 
 ## How To Contribute
+
+## Copyright
+
+	2018
