@@ -18,6 +18,6 @@ This is an example.
 
 ## How To Contribute
 
-## Copyright
+## Copyright DorotaR
 
-	2018
+	2014-2018
