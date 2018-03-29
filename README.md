@@ -20,4 +20,4 @@ This is an example.
 
 ## Copyright DorotaR
 
-	2014-2018
+	2014-2018 @Copyrigt Dorota 2018
