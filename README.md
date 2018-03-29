@@ -2,7 +2,7 @@
 
 # Starter Web Project
 
-This is a simple website project. Adding an example text.
+This is a simple website project. Adding an example text. More text from my feature branch.
 
 ## Introduction
 
