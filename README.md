@@ -2,7 +2,7 @@
 
 # Starter Web Project
 
-This is a simple website project
+This is a simple website project. Adding an example text.
 
 ## Introduction
 
